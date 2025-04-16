@@ -2,7 +2,7 @@
 
 # 🌤️ Weather Alert & Forecast MCP Tool
 
-A lightweight microservice using [FastMCP](https://github.com/microsoft/FastMCP) that fetches weather alerts and forecasts from the [National Weather Service API](https://www.weather.gov/documentation/services-web-api). This tool provides U.S. state-level alerts and location-based forecasts.
+A lightweight microservice using [FastMCP](https://pypi.org/project/mcp/) that fetches weather alerts and forecasts from the [National Weather Service API](https://www.weather.gov/documentation/services-web-api). This tool provides U.S. state-level alerts and location-based forecasts.
 
 ---
 
