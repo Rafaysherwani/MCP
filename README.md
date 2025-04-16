@@ -19,17 +19,17 @@ A lightweight microservice using [FastMCP](https://pypi.org/project/mcp/) that f
 
 ```bash
 pip install httpx
-pip install fastmcp  # Or your local FastMCP package
+pip install mcp  # Or your local FastMCP package
 ```
 
 ---
 
 ## 📦 Usage
 
-Make sure you have Python 3.9+ and `fastmcp` installed.
+Make sure you have Python 3.9+ and `mcp` installed.
 
 ```bash
-python main.py
+python weather.py
 ```
 
 The MCP server will start and listen for commands using the `stdio` transport.
